@@ -29,7 +29,14 @@ The CI workflow is already defined in the .github/workflows directory. Pushing y
 - Run tests for the "Student Registry" application on three different Node.js versions.
 ## Additional Notes:
 
-This project serves as a demonstration of CI/CD concepts using a pre-existing application.
-The specific details of the "Student Registry" application are not covered in this repository.
-I've made the following improvements to your original text:
+- This project serves as a demonstration of CI/CD concepts using a pre-existing application.
+- The specific details of the "Student Registry" application are not covered in this repository.
 
+## Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or suggestions, please open an issue in the repository.
