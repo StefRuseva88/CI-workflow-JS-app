@@ -14,7 +14,7 @@ This repository contains a Node.js. The project focuses on building a CI workflo
 
 - Basic understanding of Node.js and testing frameworks.
 - Familiarity with GitHub Actions.
-- 
+  
 ## Setup:
 
 - Clone this repository.
