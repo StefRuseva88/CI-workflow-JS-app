@@ -26,7 +26,7 @@ The CI workflow is already defined in the .github/workflows directory. Pushing y
 
 - Set up the environment.
 - Install dependencies.
-- Run tests for the "Student Registry" application on three different Node.js versions.
+- Run tests for the "Student Registry" application on two different Node.js versions.
 ### Additional Notes:
 
 - This project serves as a demonstration of CI/CD concepts using a pre-existing application.
