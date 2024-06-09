@@ -1,6 +1,7 @@
 # Implementing CI workflow in GitHub Actions.
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
-
+---
+### Overview
 This repository contains a Node.js. The project focuses on building a CI workflow using GitHub Actions to automate testing of a pre-existing Node.js application ("Student Registry").
 
 ### Project Goals:
