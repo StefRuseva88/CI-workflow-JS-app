@@ -18,11 +18,12 @@ This repository contains a Node.js app. The project focuses on building a CI wor
 ### Setup:
 
 - Clone this repository.
-- Install dependencies: npm install
+- Install dependencies: `npm install`
+- Start the application: `npm start`
 - (Optional) Review the existing "Student Registry" application code.
 ### Running Tests:
 
-The CI workflow is already defined in the .github/workflows directory. Pushing your code to the main branch will trigger the workflow automatically. The workflow will:
+The CI workflow is already defined in the `.github/workflows` directory. Pushing your code to the main branch will trigger the workflow automatically. The workflow will:
 
 - Set up the environment.
 - Install dependencies.
