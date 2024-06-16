@@ -9,7 +9,6 @@ This repository contains a Node.js app. The project focuses on building a CI wor
 - Implement a CI workflow in GitHub Actions.
 - Configure the workflow to run tests on the "Student Registry" application.
 - Test the application using multiple Node.js versions.
-- Getting Started
 
 ### Prerequisites:
 
