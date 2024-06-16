@@ -17,7 +17,7 @@ This repository contains a Node.js app. The project focuses on building a CI wor
   
 ### Setup:
 
-- Clone this repository
+- Clone this repository.
 - Install dependencies:
   
   ``` sh
@@ -28,7 +28,7 @@ This repository contains a Node.js app. The project focuses on building a CI wor
   npm start
   ```
   
-- (Optional) Review the existing "Student Registry" application code.
+- Review the existing "Student Registry" application code.
   
 ### Running Tests:
 
