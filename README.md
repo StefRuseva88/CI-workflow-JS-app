@@ -17,7 +17,7 @@ This repository contains a Node.js app. The project focuses on building a CI wor
   
 ### Setup:
 
-- Clone this repository.
+- Clone this repository
 - Install dependencies:
   
   ``` sh
