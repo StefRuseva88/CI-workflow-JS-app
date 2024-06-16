@@ -18,14 +18,10 @@ This repository contains a Node.js app. The project focuses on building a CI wor
 ### Setup:
 
 - Clone this repository.
-  1. **Install dependencies:**
+- Install dependencies and run the app:
   
   ``` sh
   npm install
-  ```
-  2. **Start the application:**
-     
-  ```sh
   npm start
   ```
   
