@@ -1,4 +1,4 @@
-# CI workflow for "Student Registry" Node.js App
+# CI workflow for Node.js App
 ### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
 
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
